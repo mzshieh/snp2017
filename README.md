@@ -19,6 +19,7 @@
 ## Lecture Notes
 
 +   [Lecture 1](https://hackmd.io/s/S1-TkvDEZ)
++   [Lecture 2](https://hackmd.io/s/BJPv44qEZ)
 
 ## Tutorial
 
