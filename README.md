@@ -1,7 +1,7 @@
 # NCTU Scratch and Python, 2017 Summer
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: [Mr. Tseng](mailto:rain.jirou@gmail.com), [Mr. Chang](mailto:hadeschang0322@gmail.com), [Mr. Lee](mailto:sz110010@gmail.com), Miss Tseng
++   Teaching Assistants: [Mr. Tseng](mailto:silver9450.cs04@nctu.edu.tw), [Mr. Chang](mailto:hadeschang0322@gmail.com), [Mr. Lee](mailto:sz110010@gmail.com), Miss Tseng
 
 ## Course Objectives
 
