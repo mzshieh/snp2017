@@ -16,10 +16,14 @@
     +   Some free [lectures](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW) provided by Al Sweigart.
     +   [中文版紙本](https://www.tenlong.com.tw/products/9789864762729)
 
-## Lecture Notes
+## Scratch Lecture Notes
 
 +   [Lecture 1](https://hackmd.io/s/S1-TkvDEZ)
 +   [Lecture 2](https://hackmd.io/s/BJPv44qEZ)
+
+## Python Lecture Notes
+
++   [Lecture 1](https://hackmd.io/s/SJcC75FHW)
 
 ## Tutorial
 
