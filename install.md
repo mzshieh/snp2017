@@ -87,27 +87,21 @@ pip install mss
 - 如果不是 root 用戶，基本上都需要在 `pip3` 前面加 `sudo -H` 指令以提權 (看不懂了話就加ㄅ)
 
 ### Troubleshooting
-#### [pyautogui](http://pyautogui.readthedocs.io/en/latest/) 套件安裝問題
+- [pyautogui](http://pyautogui.readthedocs.io/en/latest/) 套件安裝問題
+  需要先安裝其他相關套件
+  - Linux
+    ```shell
+    sudo apt-get install scrot python3-tk python3-dev
+    pip3 install python3-xlib
+    ```
+  - Mac OS X
+    ```shell
+    pip3 install pyobjc pyobjc-core
+    ```
+  其他 pyautogui 安裝問題可參考 [官網安裝說明](http://pyautogui.readthedocs.io/en/latest/install.html)
 
-需要先安裝其他相關套件
-
-- Linux
+- [imapclient](https://github.com/mjs/imapclient) 套件安裝問題
+  Linux 下可能會需要先裝 Xlib
   ```shell
-  sudo apt-get install scrot python3-tk python3-dev
-  pip3 install python3-xlib
+  pip3 install python-Xlib
   ```
-
-- Mac OS X
-  ```shell
-  pip3 install pyobjc pyobjc-core
-  ```
-
-其他 pyautogui 安裝問題可參考 [官網安裝說明](http://pyautogui.readthedocs.io/en/latest/install.html)
-
-#### [imapclient](https://github.com/mjs/imapclient) 套件安裝問題
-
-Linux 下可能會需要先裝 Xlib
-
-```shell
-pip3 install python-Xlib
-```
