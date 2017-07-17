@@ -103,6 +103,7 @@ pip install mss
   其他 pyautogui 安裝問題可參考 [官網安裝說明](http://pyautogui.readthedocs.io/en/latest/install.html)
 
 - [imapclient](https://github.com/mjs/imapclient)
+  
   Linux 下可能會需要先裝 Xlib
   ```shell
   pip3 install python-Xlib
