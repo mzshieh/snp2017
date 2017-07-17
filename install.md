@@ -33,11 +33,11 @@ Commands:
 apt-get install python3 python3-pip
 ```
 
-權限如果不足記得使用 sudo
+權限如果不足記得使用 `sudo -H`
 
 ## Mac OS X
 
-開啟 terminal (`command`+`space`，然後輸入 `terminal`，按`enter/return`)
+開啟 terminal (<kbd> &#8984; command </kbd> + <kbd> space </kbd>，然後輸入 `terminal`，按 <kbd> return </kbd>)
 
 如果你已經安裝 Homebrew 可以跳過此步驟
 
