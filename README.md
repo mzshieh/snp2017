@@ -25,10 +25,12 @@
 
 +   [Lecture 1](https://hackmd.io/s/SJcC75FHW)
 +   [Lecture 2](https://hackmd.io/s/B15Wno2B-)
++   [Lecture 3](https://hackmd.io/s/HJLuwtdUb)
 
 ## Quiz
 
 +   [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSeFjtNvcRj9S5SUWiAXsq4j8FFEDe-lCsnfLdOhls9R-I8pzg/viewform)
++   [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSeFeL67Rx9dcpVdmKuA1166CjZuNTZHolgAUPCHBdLJUVRyzQ/viewform)
 
 ## Tutorial
 
