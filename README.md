@@ -26,6 +26,7 @@
 +   [Lecture 1](https://hackmd.io/s/SJcC75FHW)
 +   [Lecture 2](https://hackmd.io/s/B15Wno2B-)
 +   [Lecture 3](https://hackmd.io/s/HJLuwtdUb)
++   [Lecture 4](https://hackmd.io/s/H1H2VaZw-)
 
 ## Quiz
 
