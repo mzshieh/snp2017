@@ -1,7 +1,7 @@
 # NCTU Scratch and Python, 2017 Summer
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: Mr. Cheng Sun
++   Teaching Assistants: [Mr. Tseng](mailto:silver9450.cs04@nctu.edu.tw), [Mr. Chang](mailto:hadeschang0322@gmail.com), [Mr. Lee](mailto:sz110010@gmail.com), Miss Tseng
 
 ## Course Objectives
 
@@ -18,14 +18,10 @@
 
 ## Scratch Lecture Notes
 
-The notes will be updated during the semester.
-
 +   [Lecture 1](https://hackmd.io/s/S1-TkvDEZ)
 +   [Lecture 2](https://hackmd.io/s/BJPv44qEZ)
 
 ## Python Lecture Notes
-
-The notes will be updated during the semester.
 
 +   [Lecture 1](https://hackmd.io/s/SJcC75FHW)
 +   [Lecture 2](https://hackmd.io/s/B15Wno2B-)
@@ -33,8 +29,6 @@ The notes will be updated during the semester.
 +   [Lecture 4](https://hackmd.io/s/H1H2VaZw-)
 
 ## Quiz
-
-The quiz will not affect your score. Take it easy.
 
 +   [Quiz 1](https://docs.google.com/forms/d/e/1FAIpQLSeFjtNvcRj9S5SUWiAXsq4j8FFEDe-lCsnfLdOhls9R-I8pzg/viewform)
 +   [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLSeFeL67Rx9dcpVdmKuA1166CjZuNTZHolgAUPCHBdLJUVRyzQ/viewform)
@@ -45,7 +39,11 @@ The quiz will not affect your score. Take it easy.
 
 ## Term Poject
 
-The [Bulls and Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows) Game.
++   Game Design: Using Scratch
+    +   [Upload to Google Drive](https://drive.google.com/drive/folders/0B4gASQ5Zzk3ASGItYkpNR0ZkOUE?usp=sharing)
++   Python Game Agent: [Lonely T-Rex](http://www.trex-game.skipser.com/)
++   Python Game Agent: [Ball Fight 3.1](https://github.com/sunset1995/ballfight.git)
+    +   [Arena](http://ballfight.nctu.me/) (Currently down)
 
 ## Grading Policy
 
