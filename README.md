@@ -1,7 +1,7 @@
 # NCTU Scratch and Python, 2017 Summer
 
 +   Instructor: [Min-Zheng Shieh](mailto:mzshieh@nctu.edu.tw) mzshieh@nctu.edu.tw
-+   Teaching Assistants: Mr. Cheng Sun
++   Teaching Assistants: [Mr. Cheng Sun](mailto:s2821d3721@gmail.com) s2821d3721@gmail.com 
 
 ## Course Objectives
 
